@@ -1,0 +1,180 @@
+body{
+    margin: 0%;
+}
+.heder{
+    width: 100%;
+    background: #008060;
+    height: 500px;
+}
+.logo{
+    height: 69px;
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 174px;
+    padding-top: 13px;
+}
+#imgh{
+    width: 100%;
+}
+h1 {text-align: center;}
+.maintext{
+    font-family: Helvetica, Arial, Lucida, sans-serif;
+    font-size: 1.6em;
+    line-height: 1.2;
+    color: #fdfdfd;
+    font-weight: 400;
+    align-items: center;
+}
+.subheading{
+    letter-spacing: 2px;
+    text-align: center;
+}
+#email-sec{
+    display: inline-block;
+    border-color: #6b7177;
+    border-radius: 4px;
+    border-width: .1px;
+    width: 278px;
+    height: 42px;
+    font-size: 15px;
+    float: left;
+    
+}
+#submit-button{
+    background: #212326;
+    color: #fff;
+    border-style: solid;
+    border-color: transparent;
+    cursor: pointer;
+    width: 132px;
+    height: 47px;
+    border-radius: 4px;
+    margin-left: 25px;
+    box-shadow: 0 0 0.1875em 0.1875em rgb(33 35 38 / 50%);
+    font-weight: bolder;
+    
+}
+#submit-button:hover{
+    background: #022b24;
+
+}
+.email-section{
+
+    padding-left: 450px;
+}
+.discription{
+    font-size: 15px;
+    text-align: center;
+    padding-bottom: 5rem;
+}
+#pid{
+    margin-top: 30px;
+}
+#parent{
+    position:relative
+}
+
+.secondimage{
+    position:absolute ;
+    top: 42px;
+    left: 277px;
+}
+.discription-two{
+    margin-left: 200px;
+    margin-top: 25px;
+}
+#first-box{
+    background: #ffff;
+    height: 225px;
+    width: 284px;
+    float: left;
+    margin-right: 50px;
+}
+#second-box{
+    background: #ffff;
+    height: 225px;
+    width: 284px;
+    float: left;
+    margin-right: 50px;
+}
+#third-box{
+    background: #ffff;
+    height: 225px;
+    width: 284px;
+    float: left;
+}
+.box-style{
+    font-size: 1.125em;
+    font-family: ShopifySans, Helvetica, Arial, sans-serif;
+    color: #212326;
+}
+.box-p{
+    line-height: 1.5;
+    font-size: 1em;
+    font-family: ShopifySans, Helvetica, Arial, Lucida Grande, sans-serif;
+    color: #6b7177;
+    font-weight: 400;
+}
+#section-three{
+    padding-left: 292px;
+    padding-top: 60px;
+}
+#last-quote{
+    text-align: center;
+    color: #212326;
+    line-height: 1.33333;
+    font-family: ShopifySans, Helvetica, Arial, sans-serif;
+    font-size: 1.5em;
+    padding-top: 76px;
+}
+#author-name{
+    text-align: center;
+    color: #42474c;
+    font-style: normal;
+    font-size: 0.875em;
+    font-family: system-ui;
+
+}
+#submit-button-two{
+    background: #008060;
+    color: #fff;
+    border-style: solid;
+    border-color: transparent;
+    cursor: pointer;
+    width: 132px;
+    height: 47px;
+    border-radius: 4px;
+    margin-left: 25px;
+    box-shadow: 0 0 0.1875em 0.1875em rgb(33 35 38 / 50%);
+    font-weight: bolder;
+
+}
+#submit-button-two:hover{
+    background: #022b24;
+
+}
+.btn-two{
+    margin-left: 663px;
+}
+.footer{
+    background-color: #fff;
+    width: 100%;
+    height: 88px;
+}
+.term{
+    font-family: ShopifySans, Helvetica, Arial, Lucida Grande, sans-serif;
+    color: #008060;
+    text-decoration: none;
+}
+#privacy{
+    padding-left: 12px;
+}
+.last-text{
+    
+    margin-left: 938px;
+    margin-top:  91px;
+    padding-top: 55px;
+
+}
